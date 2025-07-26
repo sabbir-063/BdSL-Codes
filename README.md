@@ -37,7 +37,7 @@ This project provides a complete pipeline for recognizing Bangla Sign Language (
 ## Getting Started
 ### 1. Clone the Repository
 ```bash
-git clone <repo-url>
+git clone https://github.com/sabbir-063/BdSL-Codes.git
 cd BdSL Codes
 ```
 
