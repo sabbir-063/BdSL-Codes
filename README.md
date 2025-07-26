@@ -94,7 +94,7 @@ python bdsl.py
 ## Credits
 - **Datasets:**
   - [BdSL47 Dataset](https://www.kaggle.com/datasets/sada335/bdsl-47-dataset)
-  - [30/40 Words Dataset](https://www.kaggle.com/datasets/abirmunna/bangla-sign-language-40)
+  - [30 Words Dataset](https://www.kaggle.com/datasets/abirmunna/bangla-sign-language-40)
 - **Demo Video:** [Google Drive](https://drive.google.com/file/d/1WnnyD8PtuxmWtMid_RwFYwE8tEXCQzbn/view?usp=sharing)
 - **Font:** [kalpurush.ttf](https://www.omicronlab.com/fonts/kalpurush.html)
 
