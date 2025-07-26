@@ -31,7 +31,7 @@ This project provides a complete pipeline for recognizing Bangla Sign Language (
 ## Datasets
 - **BdSL47 Dataset:** [Kaggle Link](https://www.kaggle.com/datasets/sada335/bdsl-47-dataset)
 - **30/40 Words Dataset:** [Kaggle Link](https://www.kaggle.com/datasets/abirmunna/bangla-sign-language-40)
-- **Final 77-Class Dataset:** See notebooks for details.
+- **Final 77-Class Dataset:** ([Kaggle Link](https://www.kaggle.com/datasets/sabbirmusfique63/dataset-of-77-bangla-sign))
 - **Demo Video:** [Google Drive Link](https://drive.google.com/file/d/1WnnyD8PtuxmWtMid_RwFYwE8tEXCQzbn/view?usp=sharing)
 
 ## Getting Started
